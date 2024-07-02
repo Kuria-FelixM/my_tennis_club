@@ -1,1 +1,1 @@
-    my_tennis_club
+    My Tennis Club
