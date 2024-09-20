@@ -1,4 +1,4 @@
-# views
+#members views
 from django.template import loader
 from django.http import HttpResponse
 from .models import *
